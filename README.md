@@ -1,1 +1,2 @@
 # VBA-challenge
+Hello! I am hoping to get some feedback on my very last If statement that returns the ticker names for each Min/Max in the bonus table. This was the only range that did not display on every sheet after the first macro run. I ran each for screenshot purposes, but everything else displays properly the first time. Can you tell me what the error/fix is for this in my code? Thank you! -Taylor Bohl
