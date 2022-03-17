@@ -47,7 +47,7 @@ lastrow = ws.Cells(Rows.Count, 1).End(xlUp).Row
     If Stock_Price = False Then
     Year_Open = ws.Cells(i, 3).Value
     
-    'Set condition to find year close price when ticker name changes
+    'Hold year open price, set condition to find year close price when ticker name changes
     Stock_Price = True
     
     End If
